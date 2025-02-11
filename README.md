@@ -7,7 +7,10 @@ Hi there! I'm a passionate **Full Stack Web Developer** who loves building scala
 - **Backend:** Node.js, Express, GraphQL, Next.js API Routes  
 - **Database:** PostgreSQL (Drizzle ORM, pg-core), MongoDB (native driver, Mongoose)  
 - **Authentication:** NextAuth, JWT  
-- **Other:** Stripe (Payments), WebSockets (Socket.io), Drizzle ORM    
+- **Other:** Stripe (Payments), WebSockets (Socket.io), Drizzle ORM
+
+## 🌱 Currently Learning  
+- Nestjs  
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/anshal-patel-8550aa258/))  
